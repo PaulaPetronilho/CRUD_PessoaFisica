@@ -2,6 +2,8 @@
 
 Este é um projeto exemplar que demonstra a implementação de um aplicativo CRUD (Create, Read, Update, Delete) para gerenciamento de perfis de Pessoa Física. Desenvolvido com tecnologias modernas e uma arquitetura bem definida, apresenta diversos pontos positivos que o tornam uma escolha sólida para o desenvolvimento de sistemas similares. Abaixo estão os principais aspectos positivos, tecnologias e arquitetura utilizadas:
 
+Este projeto exemplar representa uma implementação robusta e eficiente de um aplicativo CRUD de Pessoa Física, destacando-se por sua usabilidade, organização e tecnologias modernas utilizadas.
+
 ### Pontos Positivos
 
 - **Facilidade de Uso**: A interface do usuário é amigável e intuitiva, permitindo aos usuários realizar operações de CRUD de forma eficiente.
@@ -58,5 +60,3 @@ CREATE TABLE [dbo].[PessoaFisicaModels](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
-
-Este projeto exemplar representa uma implementação robusta e eficiente de um aplicativo CRUD de Pessoa Física, destacando-se por sua usabilidade, organização e tecnologias modernas utilizadas.
