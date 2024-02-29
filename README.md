@@ -30,6 +30,7 @@ Este é um projeto exemplar que demonstra a implementação de um aplicativo CRU
 ## Script de Criação da Tabela no SQL Server
 
 Segue abaixo uma parte do script de criação da tabela no banco de dados SQL Server para o cadastro de Pessoa Física:
+```sql
 -- Cria o banco de dados Pessoa
 CREATE DATABASE Pessoa;
 GO
